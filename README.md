@@ -19,7 +19,7 @@ use https to wangsha0(403, still is xhm524)
 
 use.name wang; https To xhm   
 
-share wangsha0 success; https To wang
+share wangsha0 success; https To wang 
 
 4444 3 remotes 4
 
