@@ -16,7 +16,7 @@ can not use https(403); use git@..., success
 
 share to xhm; now last ssh-pub wangsha0   
 use https to wangsha0(403, still is xhm524)
-
+ 
 use.name wang; https To xhm      
 https To wangsha0 
 
